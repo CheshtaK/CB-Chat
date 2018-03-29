@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "456694871299",
+    "firebase_url": "https://cbchat-5c0fd.firebaseio.com",
+    "project_id": "cbchat-5c0fd",
+    "storage_bucket": "cbchat-5c0fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456694871299:android:c57d116711862c0a",
+        "android_client_info": {
+          "package_name": "com.example.cheshta.cbchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "456694871299-fd3qek7fl1fd848bje4s95sm2r2nu7ap.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cheshta.cbchat",
+            "certificate_hash": "65b438addd2339404c766e7da9e6673cf9fdc927"
+          }
+        },
+        {
+          "client_id": "456694871299-7ob1jhlc81u7hliaugm4nu7nq4v8q7gu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATXXPv5qKZRW6zSbqoXkLD5SFiFHabGfM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "456694871299-7ob1jhlc81u7hliaugm4nu7nq4v8q7gu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

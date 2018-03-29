@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.cheshta.cbchat.MainActivity">
+
+    <item
+        android:id="@+id/btnMainSettings"
+        android:title="Account Settings" />
+
+    <item
+        android:id="@+id/btnMainLogout"
+        android:title="Log Out" />
+</menu>
