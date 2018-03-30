@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:gravity="center"
     android:orientation="vertical"
-    tools:context="com.example.cheshta.cbchat.StartActivity">
+    tools:context="com.example.cheshta.cbchat.activities.StartActivity">
 
     <Button
         android:id="@+id/btnAlready"
